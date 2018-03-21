@@ -2,6 +2,11 @@
 
 Semi Real-Time Audio Analysis in Swift
 
+This was a talk I gave at the annual try! Swift Tokyo 2018 conference
+
+My slides can be found here:
+https://speakerdeck.com/daisyramos317/digital-signal-processing-with-swift
+
 ## Getting Started
 
 Enable mic in permissions/prompt in simulator or device and enjoy!
